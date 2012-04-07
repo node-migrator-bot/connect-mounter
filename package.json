@@ -2,7 +2,7 @@
   "author": "AJ ONeal <coolaj86@gmail.com> (http://coolaj86.info)",
   "name": "connect-mounter",
   "description": "Similar to connect-vhoster, but mounts apps to a resource rather than a subdomain.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "repository": {
     "type": "git",
     "url": "git://github.com/SpotterRF/connect-mounter.git"
